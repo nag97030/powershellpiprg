@@ -1,0 +1,1 @@
+New-AzPublicIpAddress -Name "pippipeline" -ResourceGroupName "powershellrg" -Location "westus" -Sku "standard" -AllocationMethod "static"
